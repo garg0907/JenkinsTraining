@@ -1,5 +1,5 @@
 public class HelloWorld {
   public static void main(String args[]) {
-    System.out.println("Using Webhook-2");
+    System.out.println("Next Update");
   }
 }
